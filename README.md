@@ -30,10 +30,10 @@
 |[7인치 터치스크린](https://mechasolution.com/shop/goods/goods_view.php?goodsno=586901&category=145009)|7인치 LCD 터치 디스플레이 800 x 480|91,000원|
 
 
-## 비급
+## 비급⭐⭐⭐
 |품목(Click to Link!)|설명|가격|
 |---|:---:|---|
-[⭐⭐⭐⭐🌟🌟IoT 사물인터넷을 위한 라즈베리파이 4 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185553573&orderClick=LAG&Kc=)|Linux, Python / Flask 활용 센서 제어/라즈베리파이 카메라 활용/ NodeMCU 활용/포트포워딩과 슈퍼디엠지로 우리집 LED 제어하기/머신러닝 Open API와 가상 비서 만들기/Git 버전관리|19,800원|
+[⭐IoT 사물인터넷을 위한 라즈베리파이 4 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185553573&orderClick=LAG&Kc=)|Linux, Python / Flask 활용 센서 제어/라즈베리파이 카메라 활용/ NodeMCU 활용/포트포워딩과 슈퍼디엠지로 우리집 LED 제어하기/머신러닝 Open API와 가상 비서 만들기/Git 버전관리|19,800원|
 
 
 
