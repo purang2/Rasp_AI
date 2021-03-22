@@ -23,4 +23,4 @@
 
 ## ???
 
-비격식적인 라즈베리파이 정보 커뮤니티(DC인사이드 라즈베리파이 갤러리): https://gall.dcinside.com/mgallery/board/lists?id=pi
+**비격식적**인 라즈베리파이 정보 커뮤니티(DC인사이드 라즈베리파이 갤러리): https://gall.dcinside.com/mgallery/board/lists?id=pi
