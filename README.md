@@ -14,3 +14,10 @@
 
 
 허스키렌즈(AI비전 모듈) : https://www.icbanq.com/P010372732
+
+
+## OS
+
+라즈베리파이에 최적인 운영체제 20가지!: https://sergeswin.com/1254/
+
+
