@@ -23,7 +23,7 @@
 
 
 |품목(Click to Link!)|설명|가격|
-|---|---|---|
+|---|:---:|---|
 |[라즈베리파이4B](https://mechasolution.com/shop/goods/goods_view.php?goodsno=584379&category=145009)|램 2GB|54,890원|
 |[허스키 렌즈 프로](http://mechasolution.com/shop/goods/goods_view.php?goodsno=588672&category=145009)|AI 비전 센서/얼굴 인식/라인 인식/사물 인식/태그 인식/색상 인식|80,300원|
 |[5인치 터치스크린](http://mechasolution.com/shop/goods/goods_view.php?goodsno=541410&rid=f59e6c3e-be40-4f89-bd56-511ccfae63be)|HDMI 터치스크린 LCD|55,000원|
