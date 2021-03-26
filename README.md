@@ -36,6 +36,13 @@
 [⭐IoT 사물인터넷을 위한 라즈베리파이 4 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185553573&orderClick=LAG&Kc=)|Linux, Python / Flask 활용 센서 제어/라즈베리파이 카메라 활용/ NodeMCU 활용/포트포워딩과 슈퍼디엠지로 우리집 LED 제어하기/머신러닝 Open API와 가상 비서 만들기/Git 버전관리|19,800원|
 
 
+## 훈련 
+
+
+**Speech Recognization**
+- PyAudio In Rasp-PI: https://snowdeer.github.io/python/2017/11/15/python-raspberry-pyaudio-example/
+
+
 
 ## OS
 
