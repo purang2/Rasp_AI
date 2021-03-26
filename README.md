@@ -41,7 +41,19 @@
 
 
 **Speech Recognization**
-- PyAudio In Rasp-PI: https://snowdeer.github.io/python/2017/11/15/python-raspberry-pyaudio-example/
+- PyAudio In Rasp-PI: 
+  - https://snowdeer.github.io/python/2017/11/15/python-raspberry-pyaudio-example/  
+  = https://kcal2845.tistory.com/35   
+
+- Talking to the RaspPi
+  = [라즈베리파이에게 말을 걸다(1) : Naver TTS(음성합성) 활용 현재 온도 말하기](https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=220979297204&proxyReferer=https:%2F%2Fwww.google.com%2F)  
+
+- RaspPi's Brain
+  - NL generation -> Like a chatbot  
+  - [by using BERT & Mesh Encoder (챗봇 '이루다'의 NLP 기술)](https://namu.wiki/w/%EC%9D%B4%EB%A3%A8%EB%8B%A4(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)#s-4)    
+  - Good Practice) [Bert with Squad 2.0 Chatbot](https://www.youtube.com/watch?v=Czb48HL6yhM)   
+  
+  
 
 
 
